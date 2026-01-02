@@ -1,7 +1,6 @@
 [book]
 authors = ["Keon Kim"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Isaac"
 
