@@ -42,9 +42,11 @@ The book will be available at `http://localhost:3000`
 ├── src/                # Book source files (Markdown)
 │   ├── SUMMARY.md      # Table of contents
 │   ├── introduction.md
-│   ├── guide/
-│   ├── reference/
-│   └── advanced/
+│   ├── front-matter/
+│   ├── part-1-mental-models/
+│   ├── part-2-usd-scene/
+│   ├── ... (parts 3-10)
+│   └── appendices/
 └── docs/               # Generated HTML (published to GitHub Pages)
 ```
 
