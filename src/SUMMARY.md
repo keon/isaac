@@ -4,12 +4,6 @@
 
 ---
 
-# Front Matter
-
-- [How to Use This Book](./front-matter/how-to-use.md)
-
----
-
 # Part I — Mental Models
 
 - [Purpose and Scope of Isaac Sim](./mental-models/01-purpose-and-scope.md)

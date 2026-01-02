@@ -42,7 +42,6 @@ The book will be available at `http://localhost:3000`
 ├── src/                # Book source files (Markdown)
 │   ├── SUMMARY.md      # Table of contents
 │   ├── introduction.md
-│   ├── front-matter/
 │   ├── mental-models/
 │   ├── usd-scene/
 │   ├── robot-modeling/
